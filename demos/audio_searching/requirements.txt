@@ -11,3 +11,4 @@ soundfile==0.10.3.post1
 starlette
 typing
 uvicorn
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
